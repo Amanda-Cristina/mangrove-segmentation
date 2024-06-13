@@ -1,0 +1,6 @@
+{
+    "menor_p10": 0,
+    "entre_p10_p25": 1,
+    "entre_p25_p50": 2,
+    "maior_p50": 3
+}
